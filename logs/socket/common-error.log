@@ -1,0 +1,252 @@
+2019-05-20 20:19:08,774 ERROR 20033 [Job#1558354748767104507414577449449] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:08,776 ERROR 20033 [Job#1558354748767104507414577449449] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:08,776 ERROR 20033 [Job#1558354748767104507414577449449] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 7ms
+2019-05-20 20:19:08,777 ERROR 20033 [Job#1558354748767104507414577449449] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 4ms
+2019-05-20 20:19:08,777 ERROR 20033 [Job#1558354748767104507414604523950] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:08,778 ERROR 20033 [Job#1558354748767104507414604523950] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:08,778 ERROR 20033 [Job#1558354748767104507414604523950] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:08,778 ERROR 20033 [Job#1558354748767104507414604523950] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:18,512 ERROR 20042 [Job#155835475850410450838828207041] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:18,513 ERROR 20042 [Job#155835475850410450838828207041] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:18,513 ERROR 20042 [Job#155835475850410450838828207041] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 3ms
+2019-05-20 20:19:18,514 ERROR 20042 [Job#155835475850410450838828207041] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 3ms
+2019-05-20 20:19:18,514 ERROR 20042 [Job#155835475850810450838874701142] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:18,514 ERROR 20042 [Job#155835475850810450838874701142] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:18,515 ERROR 20042 [Job#155835475850810450838874701142] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:18,515 ERROR 20042 [Job#155835475850810450838874701142] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:19,511 ERROR 20042 [Job#155835475951010450848888238543] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:19,511 ERROR 20042 [Job#155835475951010450848888238543] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:19,511 ERROR 20042 [Job#155835475951010450848888238543] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 0ms
+2019-05-20 20:19:19,512 ERROR 20042 [Job#155835475951010450848888238543] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:19,512 ERROR 20042 [Job#155835475951010450848891268384] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:19,512 ERROR 20042 [Job#155835475951010450848891268384] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:19,513 ERROR 20042 [Job#155835475951010450848891268384] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:19,513 ERROR 20042 [Job#155835475951010450848891268384] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:20,513 ERROR 20042 [Job#155835476051210450858908280165] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:20,513 ERROR 20042 [Job#155835476051210450858908280165] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:20,514 ERROR 20042 [Job#155835476051210450858908280165] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:20,514 ERROR 20042 [Job#155835476051210450858908280165] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:20,514 ERROR 20042 [Job#155835476051210450858910607546] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:20,515 ERROR 20042 [Job#155835476051210450858910607546] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:20,515 ERROR 20042 [Job#155835476051210450858910607546] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:20,515 ERROR 20042 [Job#155835476051210450858910607546] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:21,518 ERROR 20042 [Job#155835476151710450868957645177] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:21,518 ERROR 20042 [Job#155835476151710450868957645177] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:21,519 ERROR 20042 [Job#155835476151710450868957645177] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:21,519 ERROR 20042 [Job#155835476151710450868957645177] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:21,520 ERROR 20042 [Job#155835476151710450868961033318] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:21,520 ERROR 20042 [Job#155835476151710450868961033318] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:21,520 ERROR 20042 [Job#155835476151710450868961033318] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 0ms
+2019-05-20 20:19:21,520 ERROR 20042 [Job#155835476151710450868961033318] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 0ms
+2019-05-20 20:19:22,522 ERROR 20042 [Job#155835476252110450879005448669] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:22,523 ERROR 20042 [Job#155835476252110450879005448669] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:22,523 ERROR 20042 [Job#155835476252110450879005448669] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:22,523 ERROR 20042 [Job#155835476252110450879005448669] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:22,523 ERROR 20042 [Job#1558354762522104508790076499710] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:22,523 ERROR 20042 [Job#1558354762522104508790076499710] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:22,524 ERROR 20042 [Job#1558354762522104508790076499710] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:22,524 ERROR 20042 [Job#1558354762522104508790076499710] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:23,526 ERROR 20042 [Job#1558354763525104508890455678811] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:23,527 ERROR 20042 [Job#1558354763525104508890455678811] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:23,527 ERROR 20042 [Job#1558354763525104508890455678811] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:23,527 ERROR 20042 [Job#1558354763525104508890455678811] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:23,528 ERROR 20042 [Job#1558354763526104508890481065912] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:23,528 ERROR 20042 [Job#1558354763526104508890481065912] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute error. TypeError: socket.emit is not a function
+    at Object.exports.task (/Users/clarklyu/Desktop/egg-socket/app/schedule/test.js:10:12)
+    at Messenger.app.messenger.on.info (/Users/clarklyu/Desktop/egg-socket/node_modules/egg-schedule/app.js:46:21)
+    at Messenger.emit (events.js:187:15)
+    at Messenger._onMessage (/Users/clarklyu/Desktop/egg-socket/node_modules/egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:187:15)
+    at emit (internal/child_process.js:812:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-05-20 20:19:23,528 ERROR 20042 [Job#1558354763526104508890481065912] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms
+2019-05-20 20:19:23,528 ERROR 20042 [Job#1558354763526104508890481065912] /Users/clarklyu/Desktop/egg-socket/app/schedule/test.js execute failed, used 1ms

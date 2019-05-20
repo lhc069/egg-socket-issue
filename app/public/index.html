@@ -1,0 +1,13 @@
+<html>
+<script src="./socket.io.dev.js"></script>
+<script>
+    const socket = io({
+      transports: ['polling'],
+    });
+
+    socket.on('socketId',(data) =>{
+        console.log(data);
+    })
+
+</script>
+</html>
